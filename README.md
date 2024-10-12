@@ -15,6 +15,16 @@ IEEE Transactions on Software Engineering, 2024.
 [[Paper](https://arxiv.org/pdf/2310.14211)]
 [[Homepage](https://sites.google.com/view/llm-luna)]
 
+**Investigating White-Box Attacks for On-Device Models.**<br>
+*M Zhou, X Gao, J Wu, K Liu, H Sun, L Li.*<br>
+ICSE, 2024.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3597503.3639144)]
+
+**Online personalizing white-box llms generation with neural bandits.**<br>
+*Z Chen, W Daniel, P Chen, F Buet-Golfouse.*<br>
+arXiv:2404.16115, 2024.
+[[Paper](https://arxiv.org/pdf/2404.16115)]
+
 ## Explainability
 
 **Explainability for large language models: A survey.**<br>
@@ -26,6 +36,13 @@ ACM Transactions on Intelligent Systems and Technology, 2024.
 *C Singh, JP Inala, M Galley, R Caruana, J Gao.*<br>
 arxiv:2402.01761, 2024.
 [[Paper](https://arxiv.org/pdf/2402.01761)]
+
+**Usable XAI: 10 strategies towards exploiting explainability in the LLM era.**<br>
+*X Wu, H Zhao, Y Zhu, Y Shi, F Yang, T Liu, X Zhai, W Yao, J Li, M Du, N Liu.*<br>
+arXiv:2403.08946, 2024.
+[[Paper](https://arxiv.org/pdf/2403.08946)]
+
+## Neuron Editing
 
 **IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons.**<br>
 *D Shi, R **, T Shen, W Dong, X Wu, D **ong.*<br>
